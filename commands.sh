@@ -10,3 +10,4 @@ git push -u origin main
 git remote add origin https://github.com/PAWANBHOWATE04/NETFLIX-CLONE-ver_2023.git
 git branch -M main
 git push -u origin main
+git checkout -b main2 
